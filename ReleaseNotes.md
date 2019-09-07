@@ -1,4 +1,7 @@
-# Utilities Release 0.0.4 n/a                
+# Utilities Release 0.0.5 n/a                
+1. Document dlb
+
+# Utilities Release 0.0.4 2019-09-07 18:17:32
 1. Document Rotate
 
 # Utilities Release 0.0.3 2019-09-07 09:08:03
