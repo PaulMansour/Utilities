@@ -1,4 +1,7 @@
-# Utilities Release 0.0.5 n/a                
+# Utilities Release 0.0.6                    
+1. Add a new function
+
+# Utilities Release 0.0.5 2019-09-07 18:24:48
 1. Document dlb
 
 # Utilities Release 0.0.4 2019-09-07 18:17:32
