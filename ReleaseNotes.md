@@ -1,4 +1,8 @@
-# Utilities Release 0.0.6                    
+# Utilities Release 0.0.7                    
+1. update acre config file
+2. Update acre.config
+
+# Utilities Release 0.0.6 2019-09-08 01:41:41
 1. Add a new function
 
 # Utilities Release 0.0.5 2019-09-07 18:24:48
